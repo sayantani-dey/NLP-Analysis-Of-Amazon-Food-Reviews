@@ -1,9 +1,11 @@
 # NLP-Analysis-Of-Amazon-Food-Reviews
 In this NLP analysis we check whether the sentiment scores of the reviews match the star ratings given by customers.
+
 This analysis can provide valuable insights for business and researchers as following: 
   1.  In cases where sentiment scores do not match star ratings, it may indicate anomalies or inconsistencies in the data. For example, if a review contains negative sentiment words but is accompanied by a high star rating, it could suggest fraudulent or biased reviews.
   2.  Understanding the relationship between sentiment scores and star ratings can help businesses gain deeper insights into customer feedback. For instance, if most positive reviews (high star ratings) also have high sentiment scores, it suggests that customers are generally satisfied. Conversely, if there are low sentiment scores for positive star ratings, it may indicate that customers have high expectations and are harder to please.
   3.  Analyzing the discrepancies between sentiment scores and star ratings can help businesses identify areas for improvement. For example, if negative sentiment is prevalent in reviews with high star ratings, it may highlight aspects of the product or service that customers find lacking.
+
 This repository for a natural language processing (NLP) analysis of Amazon fine food reviews was conducted using the following steps:
   1. Exploratory data analysis (EDA) was performed on the dataset to identify any patterns or trends.
   2. The NLTK library was used to check the polarity of the sentences in the reviews.
