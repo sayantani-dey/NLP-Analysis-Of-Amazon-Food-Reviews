@@ -7,4 +7,4 @@ This repository contains the code and data for a natural language processing (NL
   4. An assumption was tested, which was that the highest star rating (5) would receive the most positive scores and the lowest star rating (1) would receive the most negative scores.
 The results of the analysis showed that the assumption was correct. The highest star rating (5) received the most positive scores, while the lowest star rating (1) received the most negative scores. This suggests that the polarity of the reviews is correlated with the star rating.
 
-The code for the analysis is well-documented and can be easily replicated. The data used for the analysis is also included in the repository.
+The code for the analysis is well-documented and can be easily replicated. Also, the data used for the analysis is included in the repository.
