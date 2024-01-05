@@ -21,3 +21,4 @@ This repository for a natural language processing (NLP) analysis of Amazon fine 
   4. An assumption was tested, which was that the highest star rating (5) would receive the most positive scores and the lowest star rating (1) would receive the most negative scores.
 The results of the analysis showed that the assumption was correct. The highest star rating (5) received the most positive scores, while the lowest star rating (1) received the most negative scores. This suggests that the polarity of the reviews is correlated with the star rating.
   5. Textblob method was also used to check for the same and a comparison between the results of VADER's and TextBlob was plotted.
+  6. Update: After Textblob, Flair was used for the same and comparison were drawn among the models to determine the best one.
