@@ -21,4 +21,10 @@ This repository for a natural language processing (NLP) analysis of Amazon fine 
   4. An assumption was tested, which was that the highest star rating (5) would receive the most positive scores and the lowest star rating (1) would receive the most negative scores.
 The results of the analysis showed that the assumption was correct. The highest star rating (5) received the most positive scores, while the lowest star rating (1) received the most negative scores. This suggests that the polarity of the reviews is correlated with the star rating.
   5. Textblob method was also used to check for the same and a comparison between the results of VADER's and TextBlob was plotted.
+![Screenshot (120)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/056f64b7-c7b1-4392-aca8-a83bbfd77366)
+
   6. Update: After Textblob, Flair was used for the same and comparison were drawn among the models to determine the best one.
+![Screenshot (123)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/40e4a109-2a82-46a0-b097-39facc22125c)
+![Screenshot (122)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/b8352d46-60ca-45ca-8b70-b133e9a303b2)
+![Screenshot (120)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/c2ca22a1-4b27-4df9-8cff-6010099afaa0)
+
