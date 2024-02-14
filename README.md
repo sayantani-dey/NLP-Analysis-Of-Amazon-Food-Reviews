@@ -1,4 +1,4 @@
-# NLP-Analysis-Of-Amazon-Food-Reviews
+# NLP Analysis of Amazon Food Reviews
 In this NLP analysis we check whether the sentiment scores of the reviews match the star ratings given by customers. Checking if sentiment scores match star ratings is important for:
   1. Validating sentiment analysis models.
   2. Identifying errors and improving model accuracy.
