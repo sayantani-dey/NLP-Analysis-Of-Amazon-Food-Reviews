@@ -26,5 +26,5 @@ The results of the analysis showed that the assumption was correct. The highest 
   6. Update: After Textblob, Flair was used for the same and comparison were drawn among the models to determine the best one.
 ![Screenshot (123)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/40e4a109-2a82-46a0-b097-39facc22125c)
 ![Screenshot (122)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/b8352d46-60ca-45ca-8b70-b133e9a303b2)
-![Screenshot (120)](https://github.com/musicallysouled/NLP-Analysis-Of-Amazon-Food-Reviews/assets/88243330/c2ca22a1-4b27-4df9-8cff-6010099afaa0)
+
 
